@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 2rem;
+  color: black;
+}
+
+h3 {
+  color: black;
+  font-weight: bolder;
+  padding: 1.5rem;
+}
+
+#meaning {
+  background: rgba(255, 255, 255, 0.8);
+  width: 80%;
+  padding: 1.5rem;
+  display: inline-block;
+}
+
+input {
+  padding: 1.5rem;
+  width: 80%;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/6898861/pexels-photo-6898861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+}
+
+#emojiDisplay {
+  border: 1px solid black;
+  background: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+}
