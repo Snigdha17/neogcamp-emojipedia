@@ -10,7 +10,8 @@ const emojiDictionary = {
   "🥵": "hot face",
   "🥶": "cold face",
   "🤯": "exploding head",
-  "😲": "astonished face"
+  "😲": "astonished face",
+  "😉": "winking Face"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
